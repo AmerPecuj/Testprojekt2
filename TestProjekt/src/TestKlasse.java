@@ -5,6 +5,7 @@ public class TestKlasse {
 		// TODO Auto-generated method stub
 		ggg
 		gffg
+		ffrfggf
 
 	}
 
